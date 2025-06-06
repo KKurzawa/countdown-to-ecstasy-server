@@ -1,14 +1,14 @@
-# led-detroit-server
+# Countdown to Ecstasy Server
 Server for Countdown To Ectasy Website
 
 ## Description
-A simple server for Led Detroit's website built with MongoDB, Mongoose, Express, Cors, and deployed with render.
+A simple server for Countdown to Ectsasy website built with MongoDB, Mongoose, Express, Cors, and deployed with render.
 
-[Github Repository](https://github.com/KKurzawa/led-detroit-server)
+[Github Repository](https://github.com/KKurzawa/countdown-to-ecstasy-server?tab=readme-ov-file)
 
-[Client Side Gitub Repository](https://github.com/KKurzawa/led-detroit)
+[Client Side Gitub Repository](https://github.com/KKurzawa/countdown-to-ecstasy)
 
-[Deployed Site](https://led-detroit.vercel.app/)
+[Deployed Site](https://www.countdowntoecstasydetroit.com/)
 
 ## Credits
 
